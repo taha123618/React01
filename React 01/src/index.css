@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Staatliches', cursive;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(73, 225, 245);
+}
+
+.center{
+background-color: rgb(53, 220, 89);
+margin-top: 50vh;
+border-radius: 5px;
+}
+
+/* .heading{
+  background:#fedh;
+  color: red;
+  display: grid;
+  place-items: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 50px 0px;
+} */
+
+ .img_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Time_Date{
+  display: grid;
+  place-items: center;
+  margin-bottom: 4rem;
+}
